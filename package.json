@@ -1,0 +1,15 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "test files",
+  "main": "config.js",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "plooney81",
+  "license": "ISC"
+}
