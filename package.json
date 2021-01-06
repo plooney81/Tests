@@ -4,6 +4,8 @@
   "description": "test files",
   "main": "config.js",
   "dependencies": {
+    "jasmine": "^3.6.3",
+    "protractor": "^7.0.0",
     "selenium-webdriver": "^4.0.0-alpha.8"
   },
   "devDependencies": {},
